@@ -1,6 +1,6 @@
 # Course Assignment Information
 
-This is a Server Deployment Course Assignment I got at the end the second semester of my Backend development degree. The task was to create a Census application as well as host it on the Render platform. This code should be tested using postman.
+This is a Server Deployment Course Assignment I got at the end the second semester of my Backend development degree. The task was to create a Census application as well as host it on the Render platform. This task was done by me alone. This code should be tested using postman.
 
 This code was made from scratch by myself as we had to create our own private repository and invite the teacher to it.
 
